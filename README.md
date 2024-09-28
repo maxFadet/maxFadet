@@ -77,4 +77,5 @@ Here are some of my favorite projects:
 ---
 
 <h2>⚡ Fun Fact: </h2> 
+
 I’m constantly experimenting with **new technologies** and **creative coding techniques** to push the boundaries of what’s possible!
