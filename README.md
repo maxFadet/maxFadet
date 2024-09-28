@@ -29,6 +29,7 @@
 [![Trello](https://img.shields.io/badge/-Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/)
 [![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
 [![StyledComponents](https://img.shields.io/badge/-Styled%20Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](https://styled-components.com/)
+[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 
 ---
 
