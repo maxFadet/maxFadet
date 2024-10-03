@@ -44,7 +44,7 @@
 <h2> 💼 Projects: </h2>
 Here are some of my favorite projects:
 
-1. **📽️ Movie Browser** - A React-based web app that allows users to search for movies and people. 
+1. **📽️ Movie Browser** - A dynamic web app for discovering movies and actors, built with React for an interactive UI. It integrates the TMDB API to fetch data and Redux to manage state.
    - Tech Stack: React, Redux, Styled Components, TMDB API.
    - [Project Repository](https://github.com/maxFadet/movies-browser) | [Live Demo](https://maxfadet.github.io/movies-browser)
 
